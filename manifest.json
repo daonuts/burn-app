@@ -1,0 +1,16 @@
+{
+  "name": "Burn",
+  "author": "Carl Larson",
+  "description": "Burn tokens",
+  "details_url": "/meta/details.md",
+  "source_url": "https://github.com/daonuts/burn-app",
+  "icons": [{
+    "src": "/meta/icon.svg",
+    "sizes": "56x56"
+  }],
+  "screenshots": [
+    { "src": "/meta/screenshot-1.png" }
+  ],
+  "start_url": "/index.html",
+  "script": "/script.js"
+}
